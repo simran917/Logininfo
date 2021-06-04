@@ -1,0 +1,7 @@
+D:\User\bin\Debug\User.exe.config
+D:\User\bin\Debug\User.exe
+D:\User\bin\Debug\User.pdb
+D:\User\obj\Debug\User.csprojAssemblyReference.cache
+D:\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\User\obj\Debug\User.exe
+D:\User\obj\Debug\User.pdb

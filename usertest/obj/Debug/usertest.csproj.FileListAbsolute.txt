@@ -1,0 +1,17 @@
+D:\usertest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\usertest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\usertest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\usertest\bin\Debug\usertest.dll
+D:\usertest\bin\Debug\usertest.pdb
+D:\usertest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\usertest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\usertest\bin\Debug\User.exe
+D:\usertest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\usertest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\usertest\bin\Debug\User.pdb
+D:\usertest\bin\Debug\User.exe.config
+D:\usertest\obj\Debug\usertest.csprojAssemblyReference.cache
+D:\usertest\obj\Debug\usertest.csproj.CoreCompileInputs.cache
+D:\usertest\obj\Debug\usertest.csproj.CopyComplete
+D:\usertest\obj\Debug\usertest.dll
+D:\usertest\obj\Debug\usertest.pdb
