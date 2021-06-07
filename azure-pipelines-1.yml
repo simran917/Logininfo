@@ -9,7 +9,7 @@ trigger:
 pool:
   name: Default
   demands:
-  - agent.name -equals DESKTOP-2EKSH59
+  - myCap
 
 variables:
   solution: '**/*.sln'
